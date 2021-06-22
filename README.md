@@ -43,3 +43,7 @@ I used dataset, applied Python skill to:
 # Result:
 
 After following the processes, we had our p=model predicting the chances of getting infected with Parkinson's Disease, and our model had 87.9% of prediction accuracy.
+
+# Dataset:
+
+https://www.kaggle.com/nidaguler/parkinsons-data-set
